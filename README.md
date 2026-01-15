@@ -1,7 +1,7 @@
-Pobrać repozytorium na komputer
-Otworzyć pycharm
-Otworzyć lokalizację repozytorium
-Wejść w main.py
-Zainstalować fastapi w przypadku jej braku.
-Nacisnąć przycisk run
-Otworzyć serwer z konsoli
+1. Pobrać repozytorium na komputer
+2. Otworzyć pycharm
+3. Otworzyć lokalizację repozytorium
+4. Wejść w main.py
+5. Zainstalować fastapi w przypadku jej braku.
+6. Nacisnąć przycisk run
+7. Otworzyć serwer z konsoli
